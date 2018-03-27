@@ -8,5 +8,15 @@
             "email": "marciojc@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/support": "5.4.*",
+    },
+    "require-dev": {
+        "laravel/framework": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "marciojc\\BackgroundImage\\": "src/"
+        }
+    },
 }
