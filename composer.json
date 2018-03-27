@@ -2,6 +2,7 @@
     "name": "marciojc/laravel-background-image",
     "description": "A Laravel helper to show responsive background images",
     "keywords": ["laravel", "background", "image", "responsive", "php", "blade"],
+    "type": "library",
     "authors": [
         {
             "name": "Márcio Coelho",
